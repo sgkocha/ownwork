@@ -48,3 +48,11 @@
 .submit__btn{
     margin-left: 40%;
 }
+.footer{
+    background-color: #ccc;
+    text-align: center;
+    padding: 15px;
+}
+.footer a{
+    color: white;
+}
